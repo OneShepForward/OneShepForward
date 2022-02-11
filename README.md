@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Nick Shephard, a Full-Stack Software Engineer. I am a Flatiron School graduate with a passion for finding creative solutions to important problems. 
+I pun habitually and unapologetically. 
+
 <!--
 **OneShepForward/OneShepForward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
