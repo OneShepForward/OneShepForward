@@ -2,11 +2,14 @@ Hi there 👋
 
 I'm Nick Shephard, a Full-Stack Software Engineer. I am a Flatiron School graduate with a passion for finding creative solutions to important problems. 
 I pun habitually and unapologetically. 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/81888562/158618951-e090c5d3-b922-4496-83e2-c254e130619c.png" alt="Nick's cover picture"/>
-<!--   <img src="https://user-images.githubusercontent.com/81888562/153616989-e6e7e4c3-4644-4635-b503-f97c46ceccb4.png" alt="Nick's Compass Logo"/> -->
 </div>
-<!--![linkedin_cover_languages_spread](https://user-images.githubusercontent.com/81888562/158618951-e090c5d3-b922-4496-83e2-c254e130619c.png)
+
+<!--
+Old cover picture with just my compass logo:
+<img src="https://user-images.githubusercontent.com/81888562/153616989-e6e7e4c3-4644-4635-b503-f97c46ceccb4.png" alt="Nick's Compass Logo"/>
 
 **OneShepForward/OneShepForward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
